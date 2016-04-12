@@ -14,65 +14,63 @@ The application is licensed under the terms of the GPL in version 3. The dll enu
 
 The folliwing listing shows an example output.
 ```
-[+] Parsing: C:\Users\test\Downloads\_bundle\YoloGen.exe
-[+] Parsing: C:\Users\test\Downloads\_bundle\Qt5Core.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libgcc_s_dw2-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libstdc++-6.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libgcc_s_dw2-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\Qt5Gui.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libgcc_s_dw2-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libstdc++-6.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libgcc_s_dw2-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\Qt5Core.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libgcc_s_dw2-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libstdc++-6.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libgcc_s_dw2-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\Qt5Qml.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libgcc_s_dw2-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libstdc++-6.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libgcc_s_dw2-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\Qt5Core.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libgcc_s_dw2-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libstdc++-6.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libgcc_s_dw2-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\Qt5Network.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libgcc_s_dw2-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libgcc_s_dw2-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libstdc++-6.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libgcc_s_dw2-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-[+] Parsing: C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
+[+] Parsing: C:\Users\test\Downloads\_bundle\test.exe
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\Qt5Core.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libgcc_s_dw2-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libstdc++-6.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libgcc_s_dw2-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\Qt5Gui.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libgcc_s_dw2-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libstdc++-6.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libgcc_s_dw2-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\Qt5Core.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libgcc_s_dw2-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libstdc++-6.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libgcc_s_dw2-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\Qt5Qml.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libgcc_s_dw2-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libstdc++-6.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libgcc_s_dw2-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\Qt5Core.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libgcc_s_dw2-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libstdc++-6.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libgcc_s_dw2-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\Qt5Network.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libgcc_s_dw2-1.dll
+[+] Parsing: C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+[+] Parsing: C:\Program Files\Dev-Cpp\MinGW64\bin\libgcc_s_dw2-1.dll
+[+] Parsing: C:\Program Files\Dev-Cpp\MinGW64\bin\libstdc++-6.dll
+[+] Parsing: C:\Program Files\Dev-Cpp\MinGW64\bin\libgcc_s_sjlj-1.dll
 
 --- Dll Dependencies: ---
 
-C:\Users\test\Downloads\_bundle\Qt5Core.dll
-C:\Users\test\Downloads\_bundle\libgcc_s_dw2-1.dll
-C:\Users\test\Downloads\_bundle\libwinpthread-1.dll
-C:\Users\test\Downloads\_bundle\libstdc++-6.dll
-C:\Users\test\Downloads\_bundle\Qt5Gui.dll
-C:\Users\test\Downloads\_bundle\Qt5Qml.dll
-C:\Users\test\Downloads\_bundle\Qt5Network.dll
+C:\Qt\5.6\mingw49_32\bin\Qt5Core.dll
+C:\Qt\5.6\mingw49_32\bin\libgcc_s_dw2-1.dll
+C:\Qt\5.6\mingw49_32\bin\libwinpthread-1.dll
+C:\Qt\5.6\mingw49_32\bin\libstdc++-6.dll
+C:\Qt\5.6\mingw49_32\bin\Qt5Gui.dll
+C:\Qt\5.6\mingw49_32\bin\Qt5Qml.dll
+C:\Qt\5.6\mingw49_32\bin\Qt5Network.dll
+C:\Program Files\Dev-Cpp\MinGW64\bin\libgcc_s_sjlj-1.dll
 
 --- ----------------- ---
 
